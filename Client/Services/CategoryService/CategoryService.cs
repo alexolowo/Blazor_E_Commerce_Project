@@ -8,7 +8,7 @@
 		{
 			_http = http;
 		}
-		public List<Category> Categories { get => throw new NotImplementedException(); set => throw new NotImplementedException(); }
+		public List<Category> Categories { get; set; } = new List<Category>();
 
 		public async Task GetCategories()
 		{
