@@ -55,7 +55,8 @@
 					Title = "The Hitchhiker's Guide to the Galaxy",
 					Description = "\"Hitchhiker's Guide\" redirects here. For other uses, see Hitchhiker's Guide (disambiguation) and The Hitchhiker's Guide to the Galaxy (disambiguation).\nThe Hitchhiker's Guide to the Galaxy\nH2G2 UK front cover.jpg\nFirst edition cover of the eponymous 1979 novel.\nCreated by\tDouglas Adams\nOriginal work\tThe Hitchhiker's Guide to the Galaxy Primary and Secondary Phases (1978–1980)\nPrint publications\nBook(s)\t\nThe Hitchhiker's Guide to the Galaxy: The Original Radio Scripts (1985)\nNovel(s)\t\nThe Hitchhiker's Guide to the Galaxy (1979)\nThe Restaurant at the End of the Universe (1980)\nLife, the Universe and Everything (1982)\nSo Long, and Thanks for All the Fish (1984)\nMostly Harmless (1992)\nAnd Another Thing... (2009)\nFilms and television\nFilm(s)\tThe Hitchhiker's Guide to the Galaxy (2005)\nTelevision series\tThe Hitchhiker's Guide to the Galaxy (1981)\nGames\nVideo game(s)\tThe Hitchhiker's Guide to the Galaxy (1984)\nStarship Titanic (1997)\nAudio\nRadio program(s)\t\nThe Hitchhiker's Guide to the Galaxy Primary and Secondary Phases (1978–1980)\nThe Hitchhiker's Guide to the Galaxy Tertiary to Quintessential Phases (2004–05)\nThe Hitchhiker's Guide to the Galaxy Hexagonal Phase (2018)\nThe Hitchhiker's Guide to the Galaxy[a][b] is a comedy science fiction franchise created by Douglas Adams. Originally a 1978 radio comedy broadcast on BBC Radio 4, it was later adapted to other formats, including novels, stage shows, comic books, a 1981 TV series, a 1984 text-based computer game, and 2005 feature film.",
 					ImageUrl = "https://upload.wikimedia.org/wikipedia/en/b/bd/H2G2_UK_front_cover.jpg",
-					CategoryId = 1
+					CategoryId = 1, 
+					featured = true
 
 				},
 				new Product
@@ -110,7 +111,7 @@
 					Description = "Back to the Future is a 1985 American science fiction film directed by Robert Zemeckis. Written by Zemeckis and Bob Gale, it stars Michael J. Fox, Christopher Lloyd, Lea Thompson, Crispin Glover, and Thomas F. Wilson. Set in 1985, the story follows Marty McFly (Fox), a teenager accidentally sent back to 1955 in a time-traveling DeLorean automobile built by his eccentric scientist friend Doctor Emmett \"Doc\" Brown (Lloyd). Trapped in the past, Marty inadvertently prevents his future parents' meeting—threatening his very existence—and is forced to reconcile the pair and somehow get back to the future.",
 
 					ImageUrl = "https://upload.wikimedia.org/wikipedia/en/d/d2/Back_to_the_Future.jpg",
-
+					featured = true
 				},
 
 				new Product
@@ -146,7 +147,7 @@
 					Description = "Half-Life 2 is a 2004 first-person shooter game developed and published by Valve. Like the original Half-Life, it combines shooting, puzzles, and storytelling, and adds features such as vehicles and physics-based gameplay.",
 
 					ImageUrl = "https://upload.wikimedia.org/wikipedia/en/2/25/Half-Life_2_cover.jpg",
-
+					featured = true
 
 
 				},
