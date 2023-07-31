@@ -5,8 +5,10 @@
 @if(ProductService.Products == null || ProductService.Products.Count == 0)
 {
     <span>@ProductService.Message</span>
-}
-<ul class="list-unstyled">
+} 
+else
+{
+    <ul class="list-unstyled">
 
     @foreach (var product in ProductService.Products)
     {
@@ -28,7 +30,14 @@
             </div>
         </li>
     }
-</ul>
+    </ul>
+    for(var i =1; i <= ProductService.pageCount; i++){
+        <a class="btn
+                 @(i == ProductService.currentPage? "btn-info" : "btn-outline-info")
+                 page-selection" href="/search/@ProductService.LastSearchText/@i">@i</a>
+    }
+ }
+
 
 
 @code {
