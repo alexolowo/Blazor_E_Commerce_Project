@@ -823,3 +823,6 @@ D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\obj\Debug\net6.0\ref
 D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\obj\Debug\net6.0\BlazorEcommerce.Client.pdb
 D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ProductList.razor.rz.scp.css
 D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Pages\ProductDetails.razor.rz.scp.css
+D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopLayout.razor.rz.scp.css
+D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopNavMenu.razor.rz.scp.css
+D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\HomeButton.razor.rz.scp.css
