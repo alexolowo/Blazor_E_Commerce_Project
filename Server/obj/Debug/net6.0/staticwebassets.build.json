@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "laE2kvg6JUuZD6mNJ/4V38/xmIOmV8IJ6qtAD/zuH3k=",
+  "Hash": "IrER4dhADqAoxPyKJO/0gCTMtJumagD3P0ckFgfKOQs=",
   "Source": "BlazorEcommerce.Server",
   "BasePath": "_content/BlazorEcommerce.Server",
   "Mode": "Default",
@@ -129,6 +129,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Users\\alex.oluwasina\\source\\repos\\BlazorEcommerce\\Shared\\bin\\Debug\\net6.0\\BlazorEcommerce.Shared.pdb"
+    },
+    {
+      "Identity": "D:\\Users\\alex.oluwasina\\source\\repos\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\Users\\alex.oluwasina\\source\\repos\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "BlazorWebAssemblyResource",
+      "AssetTraitValue": "runtime",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Users\\alex.oluwasina\\.nuget\\packages\\blazored.localstorage\\4.3.0\\lib\\net6.0\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "D:\\Users\\alex.oluwasina\\source\\repos\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\dotnet.6.0.1.bplpekvai0.js",
@@ -4532,6 +4549,23 @@
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "D:\\Users\\alex.oluwasina\\source\\repos\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\System.Runtime.Numerics.dll"
+    },
+    {
+      "Identity": "D:\\Users\\alex.oluwasina\\source\\repos\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\e+YeB4fO.gz",
+      "SourceId": "BlazorEcommerce.Client",
+      "SourceType": "Project",
+      "ContentRoot": "D:\\Users\\alex.oluwasina\\source\\repos\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\",
+      "BasePath": "/",
+      "RelativePath": "_framework/Blazored.LocalStorage.dll.gz",
+      "AssetKind": "Build",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "RelatedAsset": "D:\\Users\\alex.oluwasina\\source\\repos\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "CopyToOutputDirectory": "PreserveNewest",
+      "CopyToPublishDirectory": "Never",
+      "OriginalItemSpec": "D:\\Users\\alex.oluwasina\\source\\repos\\BlazorEcommerce\\Client\\bin\\Debug\\net6.0\\wwwroot\\_framework\\Blazored.LocalStorage.dll"
     },
     {
       "Identity": "D:\\Users\\alex.oluwasina\\source\\repos\\BlazorEcommerce\\Client\\obj\\Debug\\net6.0\\build-gz\\E0+mSOUF.gz",

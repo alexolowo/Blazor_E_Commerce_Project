@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Oqg9a7IZ15VqkQDRHKmRsdYxcuT9wTZTNfYKfSVmQQaovsEK6dEbP7JWuK0LVCm+qbxRK1QrIXUwKLIbMkasIw==",
+  "dgSpecHash": "yPj8EDuT4HmiXCah53t4hnUGuOLOTl+FWkEn/RR8p1FxLoXc91r1tiPrK0nYBdnyIbiYb88iNPqzOPdPk0N3yw==",
   "success": true,
   "projectFilePath": "D:\\Users\\alex.oluwasina\\source\\repos\\BlazorEcommerce\\Server\\BlazorEcommerce.Server.csproj",
   "expectedPackageFiles": [
@@ -11,6 +11,7 @@
     "D:\\Users\\alex.oluwasina\\.nuget\\packages\\arch.entityframeworkcore.relational\\2.1.15\\arch.entityframeworkcore.relational.2.1.15.nupkg.sha512",
     "D:\\Users\\alex.oluwasina\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "D:\\Users\\alex.oluwasina\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
+    "D:\\Users\\alex.oluwasina\\.nuget\\packages\\blazored.localstorage\\4.3.0\\blazored.localstorage.4.3.0.nupkg.sha512",
     "D:\\Users\\alex.oluwasina\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "D:\\Users\\alex.oluwasina\\.nuget\\packages\\microsoft.aspnetcore.authorization\\6.0.1\\microsoft.aspnetcore.authorization.6.0.1.nupkg.sha512",
     "D:\\Users\\alex.oluwasina\\.nuget\\packages\\microsoft.aspnetcore.components\\6.0.1\\microsoft.aspnetcore.components.6.0.1.nupkg.sha512",

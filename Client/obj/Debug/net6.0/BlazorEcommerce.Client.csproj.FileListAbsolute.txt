@@ -827,3 +827,7 @@ D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\obj\Debug\net6.0\sco
 D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\ShopNavMenu.razor.rz.scp.css
 D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\HomeButton.razor.rz.scp.css
 D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\obj\Debug\net6.0\scopedcss\Shared\FeaturedProducts.razor.rz.scp.css
+D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll
+D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\bin\Debug\net6.0\wwwroot\_framework\Blazored.LocalStorage.dll.gz
+D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\bin\Debug\net6.0\Blazored.LocalStorage.dll
+D:\Users\alex.oluwasina\source\repos\BlazorEcommerce\Client\obj\Debug\net6.0\build-gz\e+YeB4fO.gz
